@@ -16,6 +16,7 @@ class Project
   # accepts a Backer as an argument and stores it in a backers array
   def add_backer(Backer)
     backers << Backer
+  end 
 
   end
 end
