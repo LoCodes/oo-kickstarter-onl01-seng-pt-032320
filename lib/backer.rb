@@ -15,7 +15,7 @@ class Backer
   #back_project
   # accepts a Project as an argument and stores it in a backed_projects array
 
-  def back_project(backed_projects)
+  def back_project(project)
 
   end
 
