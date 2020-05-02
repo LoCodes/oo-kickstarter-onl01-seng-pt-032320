@@ -14,7 +14,7 @@ class Project
 
   # #add_backer
   # accepts a Backer as an argument and stores it in a backers array
-  
+
   # More Advanced #add_backer
   # also adds the project to the backer's backed_projects array
   def add_backer(backer)
